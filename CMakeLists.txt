@@ -1,7 +1,7 @@
 # cmake required
 cmake_minimum_required(VERSION 2.8.8)
 
-project(UNIXEM)
+project(unixem)
 
 set(CMAKE_MODULE_PATH ${UNIXEM_SOURCE_DIR}/cmake)
 
